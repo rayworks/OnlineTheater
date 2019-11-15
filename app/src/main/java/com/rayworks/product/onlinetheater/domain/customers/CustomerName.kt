@@ -1,4 +1,4 @@
-package com.rayworks.product.onlinetheater.domain.customs
+package com.rayworks.product.onlinetheater.domain.customers
 
 class CustomerName private constructor(name: String) {
     companion object {

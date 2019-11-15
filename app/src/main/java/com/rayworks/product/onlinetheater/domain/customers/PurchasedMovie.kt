@@ -1,4 +1,4 @@
-package com.rayworks.product.onlinetheater.domain.customs
+package com.rayworks.product.onlinetheater.domain.customers
 
 import com.rayworks.daysFromNow
 import com.rayworks.product.onlinetheater.domain.common.Entity

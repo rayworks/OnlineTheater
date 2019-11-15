@@ -2,9 +2,9 @@ package com.rayworks.product.onlinetheater.domain.movies
 
 import com.rayworks.daysFromNow
 import com.rayworks.product.onlinetheater.domain.common.Entity
-import com.rayworks.product.onlinetheater.domain.customs.CustomerStatus
-import com.rayworks.product.onlinetheater.domain.customs.ExpirationDate
-import com.rayworks.product.onlinetheater.domain.customs.LicensingModel
+import com.rayworks.product.onlinetheater.domain.customers.CustomerStatus
+import com.rayworks.product.onlinetheater.domain.customers.ExpirationDate
+import com.rayworks.product.onlinetheater.domain.customers.LicensingModel
 
 abstract class Movie : Entity() {
     var name = ""

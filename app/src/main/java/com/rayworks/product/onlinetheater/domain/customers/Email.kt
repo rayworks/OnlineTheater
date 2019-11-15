@@ -1,6 +1,4 @@
-package com.rayworks.product.onlinetheater.domain.customs
-
-import java.lang.IllegalArgumentException
+package com.rayworks.product.onlinetheater.domain.customers
 
 class Email private constructor(value: String) {
     companion object {
